@@ -1,4 +1,4 @@
-# Facial Emotion Detection
+# **Facial Emotion Detection**
 
 
 for the Dataset you can take help from Kaggle.com
