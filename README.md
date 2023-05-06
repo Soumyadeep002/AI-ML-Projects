@@ -7,18 +7,18 @@ dataset link: https://www.kaggle.com/datasets/msambare/fer2013
 
 download the ```archive.zip``` file and unzip it, after that rename all the class files to numeric number, as shown bellow
 
-- angry = 0
+- angry -> 0
 
-- disgust = 1
+- disgust -> 1
 
-- fear = 2
+- fear -> 2
 
-- happy = 3
+- happy -> 3
 
-- nutral = 4
+- nutral -> 4
 
-- sad = 5
+- sad -> 5
 
-- surprised = 6
+- surprised -> 6
 
 now, the dataset is ready to use.
